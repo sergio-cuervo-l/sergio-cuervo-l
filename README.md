@@ -1,16 +1,70 @@
-## Hi there 👋
+# Sergio Cuervo
 
-<!--
-**sergio-cuervo-l/sergio-cuervo-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer specialized in enterprise software development, distributed systems and cloud-native architectures using .NET technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Expertise
+- Enterprise Software Architecture
+- Distributed Systems
+- Microservices Architecture
+- Cloud-Native Applications
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- CQRS & Event-Driven Systems
+- High Performance APIs
+- DevOps & CI/CD
+
+---
+
+## Tech Stack
+
+### Backend
+- C#
+- .NET 8 / ASP.NET Core
+- Entity Framework Core
+- Minimal APIs
+- RESTful APIs
+
+### Architecture
+- Clean Architecture
+- DDD
+- CQRS
+- MediatR
+- Event-Driven Architecture
+- Microservices
+
+### Cloud & DevOps
+- Azure
+- Docker
+- GitHub Actions
+- Azure DevOps
+
+### Databases
+- SQL Server
+- PostgreSQL
+- Redis
+- MongoDB
+
+---
+
+## Current Focus
+
+Building scalable enterprise platforms with modern .NET technologies, cloud-native infrastructure and distributed systems architecture.
+
+---
+
+## Featured Projects
+
+Coming soon:
+- Enterprise Banking Platform
+- Distributed Microservices Blueprint
+- Cloud-Native .NET Platform
+- Engineering Guidelines & Architecture Standards
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/sergio-cuervo-leon-5a5428172/
+- GitHub: https://github.com/sergio-cuervo-l
